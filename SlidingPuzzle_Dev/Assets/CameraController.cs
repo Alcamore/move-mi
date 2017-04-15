@@ -26,7 +26,7 @@ public class CameraController : MonoBehaviour {
 			pos = -pos;
 			//dir = Vector3.Cross (dir, Vector3.down);
 
-			transform.Translate (pos / 50);
+			transform.Translate (pos / 40);
 		}
 	}
 }
