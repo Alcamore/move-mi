@@ -22,7 +22,7 @@ public class CameraController : MonoBehaviour {
 			Debug.Log (pos.ToString());
 			Debug.Log (transform.position.ToString ());
 			pos.Normalize ();
-			pos = Vector3.ProjectOnPlane (pos, Vector3.up);
+			//pos = Vector3.ProjectOnPlane (pos, Vector3.up);
 			pos = -pos;
 			//dir = Vector3.Cross (dir, Vector3.down);
 
