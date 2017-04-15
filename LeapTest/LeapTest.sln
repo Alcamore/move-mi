@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2017
+# Visual Studio 2015
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeapTest", "LeapTest.csproj", "{D1269FB9-3600-8CE3-97E4-3D3DAEC34509}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeapTest.Editor", "LeapTest.Editor.csproj", "{46D422D3-D8FE-8209-4592-6287AE5D63ED}"
