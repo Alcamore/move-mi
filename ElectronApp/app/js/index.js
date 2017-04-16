@@ -1,6 +1,6 @@
 document.getElementById('gameButton1').onclick = function () {
   var child = require('child_process').execFile;
-  var executablePath = "C:\\Users\\JustinShort\\Documents\\move-mi-master\\LeapTest\\TestBuild1.exe";
+  var executablePath = "C:\\Users\\JustinShort\\Documents\\move-mi-master\\BallPath.exe";
 
   child(executablePath, function(err, data) {
       if(err){
